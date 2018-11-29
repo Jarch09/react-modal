@@ -12,4 +12,3 @@ _book
 *.rej
 examples/__build__
 coverage
-yarn.lock
