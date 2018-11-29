@@ -8,11 +8,7 @@
     "type": "git",
     "url": "https://github.com/Jarch09/react-modal.git"
   },
-  "homepage": "https://github.com/reactjs/react-modal",
-  "bugs": "https://github.com/reactjs/react-modal/issues",
-  "directories": {
-    "example": "examples"
-  },
+  "homepage": "https://github.com/Jarch09/react-modal",
   "scripts": {
     "start": "./node_modules/.bin/webpack-dev-server --inline --host 127.0.0.1 --content-base examples/",
     "test": "cross-env NODE_ENV=test karma start",
